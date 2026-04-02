@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @SanchitSingh382
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning technical skills 
-- 💞️ I’m looking to collaborate on LinkedIn 
-- 📫 How to reach me BY DM me on social media 
-- 😄 Pronouns: THANOS
-- ⚡ Fun fact: 
+# 👋 Hi, I'm Sanchit Singh
 
-<!---
-SanchitSingh382/SanchitSingh382 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate developer focused on building impactful technical solutions and constantly learning new skills.
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 📈 GitHub Stats
+![Sanchit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanchitSingh382&show_icons=true&theme=radical)
+
+### 📫 Let's Connect
+* **LinkedIn:** [Sanchit Singh](https://linkedin.com/in/sanchit-singh-dev)
+* **Portfolio:** [My Portfolio](https://your-portfolio-site.com)
+
+---
+*⚡ Fun fact: I believe in maintaining perfect balance in my code... as all things should be.*
