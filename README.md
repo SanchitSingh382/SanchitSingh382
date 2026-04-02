@@ -9,8 +9,7 @@ I'm a passionate developer focused on building impactful technical solutions and
 ![Sanchit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanchitSingh382&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect
-* **LinkedIn:** [Sanchit Singh](https://linkedin.com/in/sanchit-singh-dev)
+* **LinkedIn:** [Sanchit Singh](https://www.linkedin.com/in/sanchit-singh-dev)
 * **Portfolio:** [My Portfolio](https://your-portfolio-site.com)
-
 ---
 *⚡ Fun fact: I believe in maintaining perfect balance in my code... as all things should be.*
