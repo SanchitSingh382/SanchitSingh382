@@ -5,8 +5,8 @@ BCA Student • Full-Stack Web Developer • AI Enthusiast • Open Source Learn
 </h3>
 
 <p align="center">
-I'm passionate about building real-world web applications, exploring AI technologies,
-and continuously improving my problem-solving skills through projects and open-source contributions.
+I'm passionate about building real-world software solutions, exploring AI technologies,
+and continuously improving my problem-solving skills through projects and continuous learning.
 </p>
 
 ---
@@ -15,39 +15,31 @@ and continuously improving my problem-solving skills through projects and open-s
 
 - 🎓 BCA Student
 - 💻 Aspiring Full-Stack Web Developer
-- 🌱 Currently learning React.js, Node.js & System Design
+- 🌱 Currently learning Java, Python & Web Development
 - 🤖 Exploring Artificial Intelligence & Open Source
-- 🚀 Building practical projects every week
-- 🎯 Goal: Crack a Software Development Internship in 2026
+- 🚀 Building real-world projects
+- 🎯 Goal: Secure a Software Development Internship
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### Frameworks & Libraries
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/>
-</p>
-
-### Database
+### 🗄️ Database
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### Tools
+### 🛠 Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -61,15 +53,15 @@ and continuously improving my problem-solving skills through projects and open-s
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanchitSingh382&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanchitSingh382&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=SanchitSingh382&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -77,66 +69,53 @@ and continuously improving my problem-solving skills through projects and open-s
 
 # 🚀 Featured Projects
 
-### 💼 Multi-Step Loan Application Form
-Production-grade React application with:
-
-- Multi-step forms
-- File Upload
-- Form Validation
-- Autosave
-- Progress Tracking
-
----
-
 ### 🌐 Personal Portfolio
 
-Responsive developer portfolio built using
+A responsive portfolio website showcasing my skills, projects, and achievements.
 
+**Tech Used**
 - HTML
 - CSS
-- JavaScript
-
----
-
-### 📝 Online Quiz System
-
-Features
-
-- Timer
-- Score Tracking
-- Auto Skip
-- Responsive UI
+- Java
 
 ---
 
 ### 🐍 Python Projects
 
+A collection of beginner and intermediate Python applications built for learning and problem-solving.
+
+Examples:
+- Student Management System
 - Calculator
-- Student Management
-- Database Projects
-- Automation Scripts
+- File Handling
+- Database Connectivity
+
+---
+
+### 🗄️ MySQL Database Projects
+
+Projects demonstrating database design, SQL queries, CRUD operations, and relational database concepts.
 
 ---
 
 # 📚 Currently Learning
 
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Data Structures & Algorithms
-- System Design
+- ☕ Java
+- 🐍 Python
+- 🌐 HTML & CSS
+- 🗄️ MySQL
+- 📚 Data Structures & Algorithms
+- 🤖 Artificial Intelligence
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Build 20+ Projects
+- ✅ Build 15+ Quality Projects
+- ✅ Improve Data Structures & Algorithms
 - ✅ Contribute to Open Source
-- ✅ Master React
-- ✅ Learn Backend Development
-- ✅ Solve 500+ DSA Problems
-- ✅ Get a Software Development Internship
+- ✅ Learn Full-Stack Development
+- ✅ Secure a Software Development Internship
 
 ---
 
@@ -144,7 +123,7 @@ Features
 
 <p>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/sanchit-singh-dev/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -152,7 +131,7 @@ Features
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -160,27 +139,27 @@ Features
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
-[![Sanchit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Sanchit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanchitSingh382&theme=tokyo-night)](https://github.com/SanchitSingh382)
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SanchitSingh382&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
 ## ⚡ Fun Fact
 
-> I believe great software is built by writing clean code, learning continuously, and solving real-world problems one project at a time.
+> I enjoy turning ideas into code and believe continuous learning is the key to becoming a better developer.
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=SanchitSingh382&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
