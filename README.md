@@ -53,9 +53,9 @@ and continuously improving my problem-solving skills through projects and contin
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanchitSingh382&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats-tawny-ten-66.vercel.app/api?username=SanchitSingh382&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanchitSingh382&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-tawny-ten-66.vercel.app/api/top-langs/?username=SanchitSingh382&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -130,7 +130,7 @@ Projects demonstrating database design, SQL queries, CRUD operations, and relati
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:sanchitsingh382@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
