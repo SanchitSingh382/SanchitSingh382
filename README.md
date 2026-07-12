@@ -53,15 +53,15 @@ and continuously improving my problem-solving skills through projects and contin
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanchitSingh382&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanchitSingh382&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanchitSingh382&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanchitSingh382&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SanchitSingh382&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanchitSingh382&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -85,9 +85,8 @@ A responsive portfolio website showcasing my skills, projects, and achievements.
 A collection of beginner and intermediate Python applications built for learning and problem-solving.
 
 Examples:
-- Student Management System
+
 - Calculator
-- File Handling
 - Database Connectivity
 
 ---
