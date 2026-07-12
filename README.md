@@ -53,9 +53,9 @@ and continuously improving my problem-solving skills through projects and contin
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-tawny-ten-66.vercel.app/api?username=SanchitSingh382&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-stats-sanchit.vercel.app/api?username=SanchitSingh382&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats-tawny-ten-66.vercel.app/api/top-langs/?username=SanchitSingh382&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-stats-sanchit.vercel.app/api/top-langs/?username=SanchitSingh382&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </p>
 
